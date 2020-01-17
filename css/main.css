@@ -34,3 +34,8 @@ main {
 .list-todos {
   margin-top: 10em;
 }
+
+.right-element {
+  position: absolute;
+  right: 20px;
+}
