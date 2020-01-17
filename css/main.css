@@ -1,0 +1,36 @@
+/* Reset CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 100%;
+  line-height: 1.7;
+}
+
+/* Style Layout */
+
+.navbar {
+  background: #221b3d !important;
+}
+
+.navbar-brand {
+  font-family: "Righteous", cursive;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #ef5457 !important;
+}
+
+main {
+  margin-top: 6em;
+}
+
+/* todos */
+
+.list-todos {
+  margin-top: 10em;
+}
